@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ალვარონი",
+    "city": "გურჯაანი",
+    "desc": "Fresh sushi in the heart of Tbilisi.",
+    "hours": "10:00 - 22:00",
+    "lat": 41.7151,
+    "lon": 44.8271,
+    "images": [
+"https://i.postimg.cc/nrVpMrZk/2.jpg","https://i.postimg.cc/pTJP2zNr/12.jpg","https://i.postimg.cc/G2Ccwz56/1.jpg","https://i.postimg.cc/rFFwwnwk/14.jpg"
+    ]
+  },
+  {
+    "name": "Burger Empire",
+    "city": "Batumi",
+    "desc": "Handmade burgers near the beach.",
+    "hours": "11:00 - 23:00",
+    "lat": 41.6423,
+    "lon": 41.6339,
+    "images": [
+      "images/burger1.jpg",
+      "images/burger2.jpg"
+    ]
+  },
+  {
+    "name": "Khinkali House",
+    "city": "Kutaisi",
+    "desc": "Traditional Georgian food.",
+    "hours": "09:00 - 21:00",
+    "lat": 42.2679,
+    "lon": 42.7180,
+    "images": [
+      "images/khinkali1.jpg",
+      "images/khinkali2.jpg"
+    ]
+  }
+]
